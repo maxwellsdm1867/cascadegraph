@@ -9,7 +9,8 @@
 % The goal is to pick the filter and nonlinearity such that, given some
 % stimulus, the model produces a good prediction of the neuron's response. Even
 % such a simple model can achieve impressive predictive power when the
-% statistics of the noise stimulus, like mean and variance, are held stationary.
+% statistics of the noise stimulus, like mean and variance, are held
+% stationary. :)
 
 %% Set constant settings
 
